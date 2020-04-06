@@ -35,4 +35,8 @@
         font-size: 20px;
         line-height: unset;
     }
+    .presentation img {
+        max-width: 100%;
+        height: auto;
+    }
 }

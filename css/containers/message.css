@@ -15,6 +15,7 @@
 @media (max-width: 900px) {
     .message {
         margin: 30px 20px;
+        height: auto;
     }
     .message>h2 {
         font-weight: bold;
@@ -22,6 +23,8 @@
         line-height: unset;
     }
     .message>img {
-        margin: 900px 0 0 0;
+        margin-top: 900px;
+        max-width: 100%;
+        height: auto;
     }
 }
