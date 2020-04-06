@@ -21,6 +21,8 @@
         font-weight: bold;
         font-size: 20px;
         line-height: unset;
+        text-align: center;
+        align-items: center;
     }
     .message>img {
         margin-top: 900px;
