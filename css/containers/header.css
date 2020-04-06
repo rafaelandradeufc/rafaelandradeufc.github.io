@@ -3,7 +3,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: flex-end;
-    margin: 30px 122px;
+    margin: 30px 122px 0 0;
 }
 
 @media (max-width: 900px) {
