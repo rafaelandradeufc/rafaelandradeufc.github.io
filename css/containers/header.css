@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 30px 122px;
+}
+
+@media (max-width: 900px) {
+    .header {
+        margin: 30px 20px;
+    }
+}
