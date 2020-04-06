@@ -9,7 +9,6 @@
     align-items: center;
     background-color: var(--color-primary);
     height: 70%;
-    padding: 50px 120px;
 }
 
 .bg-skills>h1 {
@@ -17,7 +16,7 @@
     font-size: 32px;
     font-weight: bold;
     text-align: center;
-    margin-bottom: 20px;
+    margin: 30px 0px;
 }
 
 .bg-skills>h3 {
@@ -25,6 +24,13 @@
     font-size: 20px;
     font-weight: normal;
     text-align: center;
+    width: 70%;
+}
+
+@media (max-width: 1000px) {
+    .skills {
+        height: 100%;
+    }
 }
 
 @media (max-width: 900px) {
