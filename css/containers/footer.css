@@ -1,7 +1,7 @@
 .footer {
     display: flex;
     flex-direction: column;
-    background-color: #E7E1FF;
+    background-color: #E0E0E2;
     align-items: center;
     margin-top: 40px;
     height: 100%;
@@ -43,7 +43,7 @@
 @media (max-width: 900px) {
     .footer>h3 {
         margin: 10px 10px;
-        font-size: 26px;
+        font-size: 70%;
         width: 100%;
         text-align: center;
     }
